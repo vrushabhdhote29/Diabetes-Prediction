@@ -1,6 +1,6 @@
 # Diabetes-Prediction
 
-Requirements in Prpoject
+Requirements in Prpoject<br>
 pandas==1.1.4
 matplotlib==3.3.3
 seaborn==0.11.1
