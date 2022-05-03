@@ -1,14 +1,14 @@
 # Diabetes-Prediction
 
 Requirements in Prpoject<br>
-pandas==1.1.4
-matplotlib==3.3.3
-seaborn==0.11.1
-numpy==1.18.5
-streamlit==0.72.0
-plotly==4.14.1
-Pillow==8.0.1
-scikit_learn==0.24.0
+pandas==1.1.4<br>
+matplotlib==3.3.3<br>
+seaborn==0.11.1<br>
+numpy==1.18.5<br>
+streamlit==0.72.0<br>
+plotly==4.14.1<br>
+Pillow==8.0.1<br>
+scikit_learn==0.24.0<br>
 
 diabetes_predictor The project helps the user to identify whether someone is suffering from diabetes by simply inputting certain values like BMI, Glucose level, Blood pressure etc. with the help of a Kaggle database.
 
